@@ -1,0 +1,199 @@
+#Output for Java Addition
+
+Please enter the row size of matrix 1: 
+2
+Please enter the column size of matrix 1: 
+2
+Please enter the row size of matrix 2: 
+2
+Please enter the column size of matrix 2: 
+2
+Please enter the values to be put into the matrix one
+1
+Please enter the values to be put into the matrix one
+2
+Please enter the values to be put into the matrix one
+3
+Please enter the values to be put into the matrix one
+4
+Please enter the values to be put into the matrix two
+1
+Please enter the values to be put into the matrix two
+2
+Please enter the values to be put into the matrix two
+3
+Please enter the values to be put into the matrix two
+4
+(0, 0) = 2.0
+(0, 1) = 4.0
+(1, 0) = 6.0
+(1, 1) = 8.0
+The time is: 2559
+
+
+#Output for Java Subtraction
+
+Please enter the row size of matrix 1: 
+2
+Please enter the column size of matrix 1: 
+2
+Please enter the row size of matrix 2: 
+2
+Please enter the column size of matrix 2: 
+2
+Please enter the values to be put into the matrix one
+1
+2Please enter the values to be put into the matrix one
+
+Please enter the values to be put into the matrix one
+3
+Please enter the values to be put into the matrix one
+4
+Please enter the values to be put into the matrix two
+5
+Please enter the values to be put into the matrix two
+2
+Please enter the values to be put into the matrix two
+3
+Please enter the values to be put into the matrix two
+2
+(0, 0) = -4.0
+(0, 1) = 0.0
+(1, 0) = 0.0
+(1, 1) = 2.0
+The time is: 4318
+
+
+#Output for Java Multiplication
+
+Please enter the row size of matrix 1: 
+2
+Please enter the column size of matrix 1: 
+2
+Please enter the row size of matrix 2: 
+2
+Please enter the column size of matrix 2: 
+2
+Please enter the values to be put into the matrix one
+1
+Please enter the values to be put into the matrix one
+2
+Please enter the values to be put into the matrix one
+3
+Please enter the values to be put into the matrix one
+4
+Please enter the values to be put into the matrix two
+1
+Please enter the values to be put into the matrix two
+2
+Please enter the values to be put into the matrix two
+3
+Please enter the values to be put into the matrix two
+4
+(0, 0) = 7.0
+(0, 1) = 10.0
+(1, 0) = 15.0
+(1, 1) = 22.0
+The time is: 2668
+
+
+#Output for C++ (Multiplication)
+
+Please enter the size of rows for matrix one: 4
+Please enter the size of columns for matrix one: 4
+Enter the elements: 2
+4
+2
+3
+4
+2
+3
+4
+5
+2
+3
+4
+2
+3
+4
+2
+Please enter the size of rows for matrix two: 4
+Please enter the size of columns for matrix two: 4
+Enter the elements: 2
+3
+4
+5
+2
+3
+2
+2
+1
+2
+3
+4
+2
+1
+2
+3
+20 25 28 35 23 28 37 48 25 31 41 53 18 25 30 38 The time is: 17082
+Press any key to continue . . .
+
+
+#C++ Output for addition
+
+Please enter the size of rows for matrix one: 3
+Please enter the size of columns for matrix one: 3
+Enter the elements: 2
+3
+4
+2
+4
+2
+3
+4
+2
+Please enter the size of rows for matrix two: 3
+Please enter the size of columns for matrix two: 3
+Enter the elements: 2
+3
+4
+2
+4
+2
+4
+5
+5
+4 6 8 4 8 4 7 9 7 The time is: 9656
+Press any key to continue . . .
+
+
+#C++ Output for Subtraction
+
+Please enter the size of rows for matrix one: 3
+Please enter the size of columns for matrix one: 3
+Enter the elements: 2
+
+4
+4
+5
+2
+4
+2
+3
+4
+Please enter the size of rows for matrix two: 3
+Please enter the size of columns for matrix two: 3
+Enter the elements: 4
+2
+4
+2
+3
+5
+2
+5
+2
+-2 2 0 3 -1 -1 0 -2 2 The time is: 10860
+Press any key to continue . . .
+
+
+
